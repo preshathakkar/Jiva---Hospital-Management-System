@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+a.logbutton{background:url(../image/button05.png);
+display:block;
+font-weight:bold;
+height:100px;
+margin-bottom:14px;
+text-decoration:none;
+width:100px;}
+
+a.logbutton:hover{
+	background:url(../image/button06.png);}
+
+.doctor{background:url(../image/doc.PNG) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.doctor:hover{background:url(../image/doch.png);}
+
+.patient{background:url(../image/patient.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.patient:hover{background:url(../image/patienth.png) ;}
+
+.user{background:url(../image/user.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.user:hover{background:url(../image/userh.png);}
+
+
+.dept{background:url(../image/dept02.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.dept:hover{background:url(../image/dept02h.png);}
+
+
+.appoint{background:url(../image/appoint.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.appoint:hover{background:url(../image/appointh.png);}
+
+
+.billing{background:url(../image/bill.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.billing:hover{background:url(../image/billh.png);}
+
+.pharma{background:url(../image/pharma.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.pharma:hover{background:url(../image/pharmah.png);}
+
+
+.test{background:url(../image/test.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.test:hover{background:url(../image/testh.png) ;}
+
+
+.addrecord{background:url(../image/record-add.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.addrecord:hover{background:url(../image/record-addh.png);}
+
+
+.delrecord{background:url(../image/record-del.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.delrecord:hover{background:url(../image/record-delh.png);}
+
+
+.editrecord{background:url(../image/record-edit.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.editrecord:hover{background:url(../image/record-edith.png);}
+
+
+.search{background:url(../image/search.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.search:hover{background:url(../image/searchh.png) ;}
+
+
+.home{background:url(../image/home.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.home:hover{background:url(../image/homeh.png);}
+
+
+.addu{background:url(../image/user-add.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.addu:hover{background:url(../image/user-addh.png);}
+
+
+.delu{background:url(../image/user-del.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.delu:hover{background:url(../image/user-delh.png);}
+
+
+.edit{background:url(../image/edit.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.edit:hover{background:url(../image/edith.png) ;}
+
+.print{background:url(../image/print.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+
+.editu{background:url(../image/user-edit.PNG) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.editu:hover{background:url(../image/user-edith.png);}
+
+
+.in{background:url(../image/in.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.out{background:url(../image/out.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.sal{background:url(../image/salary.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.sal:hover{background:url(../image/salaryh.png);}
+
+.attend{background:url(../image/attend.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.attend:hover{background:url(../image/attendh.png);}
+
+.det{background:url(../image/prescribe.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.det:hover{background:url(../image/prescribeh.png);}
+
+.bed{background:url(../image/bed.png) no-repeat;
+width:100px;
+height:100px;
+display:block;}
+
+.bed:hover{background:url(../image/bedh.png);}
+
+
+table.logtable{border:none; margin-bottom: 20px; border-spacing: 0;
+border-spacing: none;
+background:none;
+-moz-box-shadow:none; -webkit-box-shadow:none; box-shadow:none;
+}
+
+th, td {padding: 15px 35px 15px 15px; text-align: left; border-left:none;}
+td {border-top: none;}
+th {padding-top: none;}
